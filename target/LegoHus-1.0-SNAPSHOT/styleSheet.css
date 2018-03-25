@@ -1,0 +1,28 @@
+body
+{
+    background-color: lavender;
+}
+h1
+{
+    font-family: arial;
+}
+h2
+{
+    font-family: arial;
+}
+p
+{
+    font-family: arial;
+}
+input
+{
+    background-color: bisque;
+    border-radius: 5px;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
